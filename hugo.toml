@@ -1,0 +1,4 @@
+baseURL = 'https://bi62yl-cet252.org/'
+languageCode = 'en-us'
+title = 'HUGO assignment page for bi62yl/cet252'
+theme = 'ananke'
