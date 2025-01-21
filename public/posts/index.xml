@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HUGO assignment page for bi62yl/cet252</title>
-    <link>https://bi62yl-cet252.org/posts/</link>
+    <link>http://localhost:45815/posts/</link>
     <description>Recent content in Posts on HUGO assignment page for bi62yl/cet252</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jan 2025 21:09:48 +0100</lastBuildDate>
-    <atom:link href="https://bi62yl-cet252.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jan 2025 11:57:55 +0100</lastBuildDate>
+    <atom:link href="http://localhost:45815/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>http://localhost:45815/posts/my-third-post/</link>
+      <pubDate>Tue, 21 Jan 2025 11:57:55 +0100</pubDate>
+      <guid>http://localhost:45815/posts/my-third-post/</guid>
+      <description>&lt;h2 id=&#34;my-third-post&#34;&gt;My third post&lt;/h2&gt;&#xA;&lt;p&gt;trying netlify, once again&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My Second Post</title>
-      <link>https://bi62yl-cet252.org/posts/my-second-post/</link>
+      <link>http://localhost:45815/posts/my-second-post/</link>
       <pubDate>Mon, 20 Jan 2025 21:09:48 +0100</pubDate>
-      <guid>https://bi62yl-cet252.org/posts/my-second-post/</guid>
+      <guid>http://localhost:45815/posts/my-second-post/</guid>
       <description>&lt;h2 id=&#34;bi62yl-cet252&#34;&gt;bi62yl cet252&lt;/h2&gt;&#xA;&lt;p&gt;This is my second HUGO post&lt;/p&gt;&#xA;&lt;p&gt;CET252 HUGO ASSIGNMENT&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://bi62yl-cet252.org/posts/my-first-post/</link>
+      <link>http://localhost:45815/posts/my-first-post/</link>
       <pubDate>Mon, 20 Jan 2025 20:57:50 +0100</pubDate>
-      <guid>https://bi62yl-cet252.org/posts/my-first-post/</guid>
+      <guid>http://localhost:45815/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>
